@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'training-angular-registration-form';
+  title = 'Training Application: A Registration Form';
 }
